@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Typewriter from "react-typewriter-effect";
+import { Typewriter } from "react-simple-typewriter";
 
 import "./_team-section.scss";
 
@@ -45,7 +45,7 @@ const TeamSection = () => {
     const teamSection = document.querySelector(".team-section");
     teamSection.scrollIntoView({ behavior: "smooth" });
 
-    // Перезапускаем анимацию
+    // Перезапуск анімації
     setKey((prevKey) => prevKey + 1);
   };
 
@@ -62,9 +62,11 @@ const TeamSection = () => {
               />
               <Typewriter
                 key={key} //Ключ для перезапуску анімації
-                text="чим ми кращі"
+                words={["чим ми кращі"]}
+                loop={false}
+                cursor
+                cursorStyle="_"
                 typeSpeed={100}
-                cursorColor="black"
                 textStyle={{
                   fontSize: "1.6vw",
                   fontWeight: 500,
