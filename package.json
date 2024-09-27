@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://anasteiisha.github.io/my-app",
+  "homepage": "https://anasteiisha.github.io/teamSectionVereto",
   "dependencies": {
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
