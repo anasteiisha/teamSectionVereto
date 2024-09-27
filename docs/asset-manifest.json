@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teamSectionVereto/static/css/main.650f9d8b.chunk.css",
+    "main.js": "/teamSectionVereto/static/js/main.07f747fb.chunk.js",
+    "main.js.map": "/teamSectionVereto/static/js/main.07f747fb.chunk.js.map",
+    "runtime-main.js": "/teamSectionVereto/static/js/runtime-main.b7279f21.js",
+    "runtime-main.js.map": "/teamSectionVereto/static/js/runtime-main.b7279f21.js.map",
+    "static/js/2.39c20058.chunk.js": "/teamSectionVereto/static/js/2.39c20058.chunk.js",
+    "static/js/2.39c20058.chunk.js.map": "/teamSectionVereto/static/js/2.39c20058.chunk.js.map",
+    "index.html": "/teamSectionVereto/index.html",
+    "static/css/main.650f9d8b.chunk.css.map": "/teamSectionVereto/static/css/main.650f9d8b.chunk.css.map",
+    "static/js/2.39c20058.chunk.js.LICENSE.txt": "/teamSectionVereto/static/js/2.39c20058.chunk.js.LICENSE.txt",
+    "static/media/team_member_1.4b0e6921.png": "/teamSectionVereto/static/media/team_member_1.4b0e6921.png",
+    "static/media/team_member_2.449ae1ff.png": "/teamSectionVereto/static/media/team_member_2.449ae1ff.png",
+    "static/media/team_member_3.449ae1ff.png": "/teamSectionVereto/static/media/team_member_3.449ae1ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7279f21.js",
+    "static/js/2.39c20058.chunk.js",
+    "static/css/main.650f9d8b.chunk.css",
+    "static/js/main.07f747fb.chunk.js"
+  ]
+}
